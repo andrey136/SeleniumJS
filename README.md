@@ -9,3 +9,4 @@ cd proj_path
 npm i
 node index
 ```
+Unfortunately at this moment only email field validation test work fine.
