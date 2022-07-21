@@ -1,5 +1,4 @@
 const {Builder, By, until} = require("selenium-webdriver");
-const { sleep } = require("./additional_fucs");
 const assert = require("chai").assert
 
 async function test_01(data, expected){
